@@ -78,3 +78,4 @@ Pruebas de la clase:
 ¿La clase Auto implementa el método: init( )?
 ¿La clase Auto implementa la función: func cambioDeVelocidad( ) -> ( actual : Int, velocidadEnCadena: String) y sus reglas de ejecución?
 ¿Se realiza la prueba de la clase Auto, iterando 20 veces el método cambioDeVelocidad() y sus salidas se observan en la consola?
+
