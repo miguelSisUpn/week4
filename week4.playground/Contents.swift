@@ -48,5 +48,5 @@ var auto = Auto()
 
 for i in 0 ... 19 {
     var tupla = auto.cambioDeVelocidad()
-    print("\(tupla.actual) , \(tupla.velocidadEnCadena)")
+    print(" \(tupla.actual) , \(tupla.velocidadEnCadena)")
 }
